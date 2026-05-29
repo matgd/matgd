@@ -1,6 +1,4 @@
-Software Engineer.
-Using appropiate tools for given problem. 
-Most comfortable working with:
+Software Engineer. Most comfortable working with:
 - Python / Bash / Go
 - Linux
 - React / Vue / Svelte
